@@ -1,0 +1,7 @@
+
+Resultat: Vi har inte satt ut höjd och bredd för bilder
+
+Kommentar: Om vi sätter ut bildens bredd och höjd (height &amp; width) till bildernas dimensioner så
+ritas bilderna ut snabbare och vi får en bättre poäng.
+
+Förslag: Sätter höjd och bredd i css på bilderna.
